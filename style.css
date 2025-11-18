@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fce4ec; /* light pink */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #1e88e5; /* blue */
+    padding: 20px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    background: white;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+td, th {
+    padding: 15px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+}
+
+th {
+    background-color: #ff80ab; /* darker pink */
+    color: white;
+    font-size: 18px;
+}
+
+.section-title {
+    background-color: #90caf9; /* light blue */
+    color: #000;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: left;
+}
+
+.emoji {
+    font-size: 20px;
+}
